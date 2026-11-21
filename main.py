@@ -7,8 +7,8 @@ beside AI coding agents. Deterministic, no network, stdlib only.
 import os
 
 JOKE = (
-    "My agent wrote the postmortem for its own outage. "
-    "Root cause: 'human error.' Action item: 'replace human.'"
+    "My agent applied for my job. It passed the coding round — "
+    "it wrote the questions. HR says I'm the backup."
 )
 
 
